@@ -1,0 +1,21 @@
+/*
+@license
+
+dhtmlxSpreadsheet v.4.1.3 Evaluation
+
+This software is covered by DHTMLX Evaluation License and purposed only for evaluation.
+Contact sales@dhtmlx.com to get Commercial or Enterprise license.
+Usage without proper license is prohibited.
+
+(c) XB Software.
+
+*/
+
+/**
+    * Copyright (c) 2017, Leon Sorokin
+    * All rights reserved. (MIT Licensed)
+    *
+    * domvm.js (DOM ViewModel)
+    * A thin, fast, dependency-free vdom view layer
+    * @preserve https://github.com/leeoniya/domvm (v3.2.6, micro build)
+    */
